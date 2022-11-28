@@ -1,9 +1,9 @@
 All documentation for the workshop is best viewed from the github.io pages
 
-[Documentation](https://ucdavis-bioinformatics-training.github.io/2022-Feb-Introduction-To-Python-For-Bioinformatics/)
+[Documentation](https://ucdavis-bioinformatics-training.github.io/2022-Nov-Introduction-To-Python-For-Bioinformatics/)
 
 Introduction To Python For Bioinformatics<br>
-Feb 28th - March 4th 2022, 2 to 5pm each day<br>
+Nov 28th - Dec 2nd 2022, 2 to 5pm each day<br>
 Organizer - [Bioinformatics Core at UC Davis](https://bioinformatics.ucdavis.edu/)<br>
 Contact - UC Davis Bioinformatics Core, training.bioinformatics@ucdavis.edu<br>
 
@@ -36,7 +36,4 @@ Where can I find more information, including your policies?  ... Go to our websi
 If you have any questions, please don’t hesitate to contact us at training.bioinformatics@ucdavis.edu
 
 
-### Register
-
-[https://registration.genomecenter.ucdavis.edu/events/intro_python_feb_2022_02_28](https://registration.genomecenter.ucdavis.edu/events/intro_python_feb_2022_02_28)
 
