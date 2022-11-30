@@ -16,7 +16,7 @@ Hints:
 
 ## Exercise 2 - Get the nucleotide count from a fasta file.
 
-Now we will take our previous code and add to it. Create a new file called "count_file.py". Download [this fasta file](https://github.com/ucdavis-bioinformatics-training/2022-Nov-Introduction-To-Python-For-Bioinformatics/raw/master/python/data/seq.fa). Take a look at it... notice it is a multiline fasta file. We are going to do the same count as previously, but we are now doing it for an entire file. You will need to skip the header lines and only count the sequence lines and instead of using the sequence, you will open the file and read sequences from there. You will also reuse the code you wrote in the previous example.
+Now we will take our previous code and add to it. Create a new file called "count_file.py". Download [this fasta file](https://github.com/ucdavis-bioinformatics-training/2022-Nov-Introduction-To-Python-For-Bioinformatics/raw/main/python/data/seq.fa). Take a look at it... notice it is a multiline fasta file. We are going to do the same count as previously, but we are now doing it for an entire file. You will need to skip the header lines and only count the sequence lines and instead of using the sequence, you will open the file and read sequences from there. You will also reuse the code you wrote in the previous example.
 
 Hints:
 1. Open the file and read it in line by line in a loop.
