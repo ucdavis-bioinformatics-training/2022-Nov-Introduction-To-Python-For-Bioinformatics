@@ -246,7 +246,7 @@ print("\nErrors\n")
 print "Hello World!"
 ```
 
-### Logial error
+### Logical error
 
 Logical errors are the hardest to find because the python interpreter cannot catch them for you. It is an error that is based on an incorrect coding of whatever algorithm you are trying to create.
 
