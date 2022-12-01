@@ -5,7 +5,7 @@ for line in fp:
     if (not line.startswith(">")):
         line = line.rstrip("\n")
 
-        for letter in list(line):
+        for letter in line:
             if (letter not in counts):
                 counts[letter] = 1
             else:

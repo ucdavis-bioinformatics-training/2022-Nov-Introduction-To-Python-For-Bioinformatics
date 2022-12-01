@@ -1,7 +1,7 @@
 seq = "CGGTAGTCGAGCTGCGGATATAATATGCATATAGATCGCACGCTAGCTCATAAAAGCATGCATGCGGCTAGCTGCTGATCGTGTCG"
 
 counts={}
-for letter in list(seq):
+for letter in seq:
     if (letter not in counts):
         counts[letter] = 1
     else:

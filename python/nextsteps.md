@@ -11,6 +11,7 @@
 * [Pandas & Data Analysis](https://pandas.pydata.org/)
 * [Creating modules](https://www.geeksforgeeks.org/create-and-import-modules-in-python/)
 * [Threading & Concurrency](https://docs.python.org/3/library/concurrency.html)
+* [Recursion](https://www.geeksforgeeks.org/recursion-in-python/)
 * [Tk & GUI creation](https://docs.python.org/3/library/tk.html)
 * [Database programming](https://www.geeksforgeeks.org/python-database-tutorial/)
 * [Web development & Django](https://www.djangoproject.com/)
