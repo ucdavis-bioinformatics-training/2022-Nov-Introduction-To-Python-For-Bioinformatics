@@ -21,7 +21,7 @@ dna = Seq("AGTCGGACTGACTACTGATCGTACGCTATTATT")
 print(dna.reverse_complement())
 
 # you can transcribe a sequence
-rna = seq.transcribe()
+rna = dna.transcribe()
 print(rna)
 
 # you can translate RNA
